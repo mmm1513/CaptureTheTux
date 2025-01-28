@@ -29,4 +29,3 @@
   <ItemGroup>
     <None Include="..\shared\icon.png" Pack="true" PackagePath="\" />
   </ItemGroup>
-</Project>
